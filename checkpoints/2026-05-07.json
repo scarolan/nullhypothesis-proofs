@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-05-07T11:00:06.590516+00:00",
+  "fingerprint_version": "v1.1.21",
+  "fingerprint_checksum": "65e69bcd76a2f55c0dfe63a88a35e856b95a94f41fa22343a6ed2de33ea59900",
+  "predictions_checksum": "a75cc1985bd02d1bc44ac8f8e59477bdc0b99126344a4bd47b4c4eb2415e4738",
+  "pmc_findings_checksum": "6bdcd11daa9a22b308ab9bd3cd22ec6602beaeefbc19d1542399674984f6b8fd",
+  "stats": {
+    "total_predictions": 27224,
+    "watching": 917,
+    "retracted": 473
+  }
+}
